@@ -2,6 +2,9 @@
 
 ### Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints
 
+**Link to the project:**
+https://drive.google.com/drive/folders/17Ne8cG2piN_uY0QPZlnLpCpwB1I5Zo6N?usp=sharing
+
 ## Overview
 Welcome to the Ecommerce Excel Project repository! <br>
 This project delves deep into the dynamics of supply chain management and digital consumer behavior, leveraging advanced Excel techniques to extract actionable insights. Through meticulous data analysis and innovative dashboard development, this repository showcases our journey in unraveling the narrative of supply chain excellence and digital footprints.
