@@ -47,7 +47,6 @@ Our primary objective is to conduct comprehensive analysis using Excel, focusing
 Four interactive excel dashboards were designed to provide comprehensive insights into various aspects of ecommerce operations. Each dashboard leverages advanced Excel techniques to visualize key metrics, trends, and patterns, offering valuable information for data-driven decision-making.
 
 <img width="1027" alt="Overview" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/9ad7d2c9-2c54-4bd3-8d69-45d47319e676">
-<img width="1027" alt="Overview" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/9ad7d2c9-2c54-4bd3-8d69-45d47319e676">
 
 #### Profit and Sales Analysis
 The Profit and Sales Analysis dashboard offers a detailed examination of product performance, profitability, and sales trends. It includes several key visualizations and metrics that highlight crucial aspects of sales operations.
@@ -59,7 +58,6 @@ The Profit and Sales Analysis dashboard offers a detailed examination of product
 * Sales by Customer Segment: Breakdown of sales figures by different customer segments, providing insights into customer behavior and preferences.
 
 <img width="1025" alt="Profit Sales" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/74b4f575-bdfd-4060-a258-a6e81fa659b8">
-<img width="1025" alt="Profit Sales" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/74b4f575-bdfd-4060-a258-a6e81fa659b8">
 
 #### Shipment Analysis
 The Shipment Analysis dashboard focuses on the efficiency and effectiveness of the shipping process. It examines shipment delays, modes of shipping, and the status of deliveries to optimize logistics and improve customer satisfaction.
@@ -69,7 +67,6 @@ The Shipment Analysis dashboard focuses on the efficiency and effectiveness of t
 * Shipping Mode Analysis: Evaluation of the performance and popularity of different shipping modes.
 * Shipment Delivery Status: Visualization of the delivery status across all orders, including on-time, late, and pending shipments.
 
-<img width="1005" alt="Shipment" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/c49e20a4-1091-4d6a-b152-75e5bf495ab5">
 <img width="1005" alt="Shipment" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/c49e20a4-1091-4d6a-b152-75e5bf495ab5">
 
 #### Customer Demographics
@@ -91,7 +88,6 @@ Key Features:
 * User Engagement Analysis: Examination of user engagement metrics, such as page views per visit.
 * Top 10 Cities with Highest Customer Views: Identification of cities with the highest number of customer views, providing insights into geographic market potential.
 
-<img width="1014" alt="Website Traffic" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/a3784c75-98cf-465b-987f-38caeaec1247">
 <img width="1014" alt="Website Traffic" src="https://github.com/AimanSahay/Excel-Project-ECommerce-and-Supply-Chain-Analytics/assets/114603096/a3784c75-98cf-465b-987f-38caeaec1247">
 
 ## Conclusion
