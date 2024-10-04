@@ -3,7 +3,7 @@
 ### Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints
 
 **Link to the project:**
-[Excel Project](https://drive.google.com/drive/folders/17Ne8cG2piN_uY0QPZlnLpCpwB1I5Zo6N?usp=sharing)
+[Excel Project](https://drive.google.com/drive/folders/1qKUo6XUWSjpsC7pM59qBt9y1jR6wevs-?usp=sharing)
 
 ## Overview
 Welcome to the Ecommerce Excel Project repository! <br>
